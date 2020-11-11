@@ -56,7 +56,7 @@ def ProcessAudio():
 
         except:
             print('Sorry cannot identify your speech. :(')
-            
+            Continue()
          
 
 
